@@ -14,9 +14,11 @@
         <img src="img/avatar-perfil.png" alt="avatar da Leandro" class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">Eu sou leandro_</p>
+        ![image](https://github.com/user-attachments/assets/1712c3d6-1c9e-4a9b-8057-aa3f36928e0a)
+
         <h1>Eu ensino sobre queda de braço</h1>
         <p>Minhas habilidades</p>
-        <div>![image](https://github.com/user-attachments/assets/c38ca90a-bcac-470a-a0f2-346fd8c63694)
+        <div>
 
             <p class="badge bg-secondary">HTML</p>
             <p class="badge bg-secondary">CSS</p>
