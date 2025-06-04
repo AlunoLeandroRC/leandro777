@@ -16,7 +16,8 @@
         <p class="lead">Eu sou leandro_</p>
         <h1>Eu ensino sobre queda de braço</h1>
         <p>Minhas habilidades</p>
-        <div>
+        <div>![image](https://github.com/user-attachments/assets/c38ca90a-bcac-470a-a0f2-346fd8c63694)
+
             <p class="badge bg-secondary">HTML</p>
             <p class="badge bg-secondary">CSS</p>
             <p class="badge bg-secondary">JavaScript</p>
