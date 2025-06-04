@@ -8,14 +8,13 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="style.css">
-    <title>Meu portfólio</title>
-<body>
+    <title>Meu portfólio</title>![image](https://github.com/user-attachments/assets/c352c6da-e8f5-4a1b-afee-b72d78631339)
+
+<body>()
     <header class="container text-center">
         <img src="img/avatar-perfil.png" alt="avatar da Leandro" class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">Eu sou leandro_</p>
-        ![image](https://github.com/user-attachments/assets/1712c3d6-1c9e-4a9b-8057-aa3f36928e0a)
-
         <h1>Eu ensino sobre queda de braço</h1>
         <p>Minhas habilidades</p>
         <div>
